@@ -97,6 +97,7 @@ const debouncedFn = debounce(() => console.log('Called!'), 300);
 
 ## 📖 Documentation
 
+[This features will upcoming]
 For detailed documentation and examples, visit our [documentation site](https://your-docs-url.com) or check the `/docs` folder in this repository.
 
 ## 🧪 Testing
@@ -107,7 +108,9 @@ npm test
 
 ## 🤝 Contributing
 
-We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) for details.
+We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md) before submitting a pull request.
+
+If you're new to open source, feel free to open an issue first to discuss your idea!
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
