@@ -1,6 +1,6 @@
 {
   "name": "@zahidg0/easy-js",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "This is a JavaScript utility library that provides a collection of easy-to-use functions for common tasks such as manipulating arrays, objects, strings, numbers, dates, and more. It aims to simplify everyday coding tasks and enhance productivity.",
   "main": "index.js",
   "scripts": {
